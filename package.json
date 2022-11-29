@@ -1,0 +1,27 @@
+{
+  "name": "fun-node-proj",
+  "version": "1.0.0",
+  "description": "this is a project I did in class",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesouls/node-test.git"
+  },
+  "author": "mikesouls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesouls/node-test/issues"
+  },
+  "homepage": "https://github.com/mikesouls/node-test#readme",
+  "dependencies": {
+    "chalk": "^5.1.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
